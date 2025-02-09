@@ -11,9 +11,9 @@ Evaluation of the size and performance of trained QAT.
 python quant_test.py
 ```
 
-modified from
-https://github.com/htqin/QuantSR
+modified from  
+https://github.com/htqin/QuantSR  
 https://github.com/Mnster00/simplifiedUnetSR
 
-references
+references  
 QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution
