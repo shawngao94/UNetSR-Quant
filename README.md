@@ -8,7 +8,7 @@ python main.py
 
 Evaluation of the size and performance of trained QAT.
 ```
-python quant_eval.py
+python quant_test.py
 ```
 
 modified from
