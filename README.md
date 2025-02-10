@@ -11,6 +11,8 @@ Evaluation of the size and performance of trained QAT.
 python quant_test.py
 ```
 
+The model was trained on a small dataset (BSD300 TRAIN)
+
 modified from  
 https://github.com/htqin/QuantSR  
 https://github.com/Mnster00/simplifiedUnetSR
