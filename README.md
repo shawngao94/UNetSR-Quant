@@ -14,7 +14,7 @@ python quant_test.py
 The model was trained on a small dataset (BSD300 TRAIN)
 
 results  
-![Uploading image.png…]()
+![image](https://raw.githubusercontent.com/shawngao94/UNetSR-Quant/refs/heads/main/img/results.jpg)
 
 
 modified from  
